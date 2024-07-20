@@ -1,4 +1,5 @@
 # Hospital-queue
-![Hospital](https://github.com/user-attachments/assets/676f736a-9db5-4c0d-b492-78a41bedf80c)
+![Hospital](https://github.com/user-attachments/assets/b7b733a2-baa8-477b-bf1a-9e4c396b3265)
+
 
 
